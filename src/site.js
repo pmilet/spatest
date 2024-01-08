@@ -2,7 +2,7 @@
 const baseUri = "https://duendebffpoc.azure-api.net";
 
 // The Azure AD application registration client ID
-const clientId = "bee77a53-d7e2-492f-a9a1-df1f33829369";
+const clientId = "7edbc56c-0081-44ef-93a4-fa33d982566e";
 
 // The Azure AD tenant ID
 const tenantId = "16b3c013-d300-468d-ac64-7eda0820b6d3";
