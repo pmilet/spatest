@@ -1,0 +1,9 @@
+client-id: 7edbc56c-0081-44ef-93a4-fa33d982566e
+client-secret: dtQ8Q~pgVofAfbToCpiR1-PlhykbmfjsXPN5xbr9
+
+token-endpoint: https://login.microsoftonline.com/{{tenant-id}}/oauth2/v2.0/token
+
+authorization-endpoint: https://login.microsoftonline.com/${tenantId}/oauth2/v2.0/authorize
+
+logout-endpoint
+https://login.microsoftonline.com/${tenantId}/oauth2/v2.0/logout
