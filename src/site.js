@@ -2,7 +2,7 @@
 const baseUri = "https://duendebffpoc.azure-api.net";
 
 // The Azure AD application registration client ID
-const clientId = "interactive.confidential";
+const clientId = "7edbc56c-0081-44ef-93a4-fa33d982566e";
 
 // The Azure AD tenant ID
 const tenantId = "16b3c013-d300-468d-ac64-7eda0820b6d3";
@@ -15,14 +15,14 @@ const scope = "https://graph.microsoft.com/.default"
 // Redirects the user to the login endpoint with the appropriate parameters to begin the authentication flow
 const login = () => {
     window.location.href =
-        `https://demo.duendesoftware.com/connect/authorize?response_type=code&redirect_uri=${baseUri}/auth/callback&client_id=${clientId}&scope=${scope}`;
+        `https://login.microsoftonline.com/${tenantId}/oauth2/v2.0/authorize?response_type=code&redirect_uri=${baseUri}/auth/callback&client_id=${clientId}&scope=${scope}`;
 };
 
 // Logs the user out of the application by redirecting to the logout endpoint of Azure AD which will in turn call the logout endpoint of the application to remove the cookie
 // This allows the user to be logged out of Azure AD and the single-page application itself by deleting the cookie
 // If you do not want to log the user out of Azure AD, you can remove the redirect to the logout endpoint of Azure AD and just call the logout endpoint of the application
 const logout = () => {
-    window.location.href = `https://demo.duendesoftware.com/connect/logout?post_logout_redirect_uri=${baseUri}/auth/logout`;
+    window.location.href = `https://login.microsoftonline.com/${tenantId}/oauth2/v2.0/logout?post_logout_redirect_uri=${baseUri}/auth/logout`;
 };
 
 // Calls the graph endpoint and displays the result
