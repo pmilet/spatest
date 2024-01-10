@@ -3,13 +3,13 @@ const baseUri = "https://duendebffpoc.azure-api.net";
 
 // The Azure AD application registration client ID
 //const clientId = "7edbc56c-0081-44ef-93a4-fa33d982566e";
-const clientId = "interactive.confidential";
+//const clientId = "interactive.confidential";
 
-//const authEndpoint = "https://login.microsoftonline.com/16b3c013-d300-468d-ac64-7eda0820b6d3/oauth2/v2.0/authorize";
-//const logoutEndpoint = "https://login.microsoftonline.com/16b3c013-d300-468d-ac64-7eda0820b6d3/oauth2/v2.0/logout";
+//const authEndpoint = "https://demo.duendesoftware.com/connect/authorize";
+//const logoutEndpoint = "https://demo.duendesoftware.com/connect/endsession";
 
-const authEndpoint = "https://demo.duendesoftware.com/connect/authorize";
-const logoutEndpoint = "https://demo.duendesoftware.com/connect/endsession";
+const authEndpoint = "https://identityserverribtest.azurewebsites.net/connect/authorize";
+const logoutEndpoint = "https://identityserverribtest.azurewebsites.net/connect/endsession";
 
 // The scope for the access token request to call the Microsoft Graph API
 // If a refresh token is also required for the application, add "offline_access" to the scope
