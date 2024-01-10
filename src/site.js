@@ -4,6 +4,7 @@ const baseUri = "https://duendebffpoc.azure-api.net";
 // The Azure AD application registration client ID
 //const clientId = "7edbc56c-0081-44ef-93a4-fa33d982566e";
 //const clientId = "interactive.confidential";
+const clientId = "web";
 
 //const authEndpoint = "https://demo.duendesoftware.com/connect/authorize";
 //const logoutEndpoint = "https://demo.duendesoftware.com/connect/endsession";
