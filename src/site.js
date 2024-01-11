@@ -18,9 +18,14 @@ const logoutEndpoint = "https://identityserverribtest.azurewebsites.net/connect/
 const scope = "api1"
 
 // Redirects the user to the login endpoint with the appropriate parameters to begin the authentication flow
+//const login = () => {
+//    window.location.href =
+//        `${authEndpoint}?response_type=code&redirect_uri=${baseUri}/auth/callback&client_id=${clientId}&scope=${scope}`;
+//};
+
 const login = () => {
     window.location.href =
-        `${authEndpoint}?response_type=code&redirect_uri=${baseUri}/auth/callback&client_id=${clientId}&scope=${scope}`;
+        `${authEndpoint}?response_type=code&redirect_uri=${baseUri}/signin-oidc=${clientId}&scope=${scope}`;
 };
 
 // Logs the user out of the application by redirecting to the logout endpoint of Azure AD which will in turn call the logout endpoint of the application to remove the cookie
