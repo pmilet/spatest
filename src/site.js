@@ -35,7 +35,7 @@ const callApi = async () => {
     document.getElementById("result").innerText = "Loading...";
 
     // Call the Graph API endpoint
-    await fetch(`https://identityserverribtest.azurewebsites.net/identity`, {
+    await fetch(`https://api6543.azurewebsites.net/identity`, {
         credentials: "include",
     })
         .then(async (response) => {
