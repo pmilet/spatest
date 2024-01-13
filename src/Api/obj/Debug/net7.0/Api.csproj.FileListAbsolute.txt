@@ -1,0 +1,80 @@
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\appsettings.Development.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\appsettings.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Api.exe
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Api.deps.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Api.runtimeconfig.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Api.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Api.pdb
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\Api.csproj.AssemblyReference.cache
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\Api.AssemblyInfoInputs.cache
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\Api.AssemblyInfo.cs
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\Api.csproj.CoreCompileInputs.cache
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\Api.sourcelink.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Api.props
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\scopedcss\bundle\Api.styles.css
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\Api.csproj.CopyComplete
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\Api.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\refint\Api.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\Api.pdb
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\Api.genruntimeconfig.cache
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\Api\obj\Debug\net7.0\ref\Api.dll
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\appsettings.Development.json
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\appsettings.json
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Api.exe
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Api.deps.json
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Api.runtimeconfig.json
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Api.dll
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Api.pdb
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\code\RIB\spatest\src\Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\Api.csproj.AssemblyReference.cache
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\Api.AssemblyInfoInputs.cache
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\Api.AssemblyInfo.cs
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\Api.csproj.CoreCompileInputs.cache
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\Api.sourcelink.json
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Api.props
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\scopedcss\bundle\Api.styles.css
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\Api.csproj.CopyComplete
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\Api.dll
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\refint\Api.dll
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\Api.pdb
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\Api.genruntimeconfig.cache
+C:\code\RIB\spatest\src\Api\obj\Debug\net7.0\ref\Api.dll

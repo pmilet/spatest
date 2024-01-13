@@ -1,0 +1,110 @@
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\appsettings.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\keys\is-signing-key-382FE3CFC960AC3D55474AF886D1E84C.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\keys\is-signing-key-A4746C33C3CA57F2956AF0B967461CE8.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\IdentityServer.staticwebassets.runtime.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\IdentityServer.exe
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\IdentityServer.deps.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\IdentityServer.runtimeconfig.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\IdentityServer.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\IdentityServer.pdb
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Duende.IdentityServer.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Duende.IdentityServer.Storage.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\IdentityModel.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Serilog.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\IdentityServer.csproj.AssemblyReference.cache
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\IdentityServer.AssemblyInfoInputs.cache
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\IdentityServer.AssemblyInfo.cs
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\IdentityServer.csproj.CoreCompileInputs.cache
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\IdentityServer.RazorAssemblyInfo.cache
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\IdentityServer.RazorAssemblyInfo.cs
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\IdentityServer.sourcelink.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\staticwebassets.build.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\staticwebassets.development.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\staticwebassets\msbuild.IdentityServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\staticwebassets\msbuild.build.IdentityServer.props
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IdentityServer.props
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IdentityServer.props
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\scopedcss\bundle\IdentityServer.styles.css
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\IdentityServer.csproj.CopyComplete
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\IdentityServer.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\refint\IdentityServer.dll
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\IdentityServer.pdb
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\IdentityServer.genruntimeconfig.cache
+C:\code\pierrelabs\RIB Lab\DuendeSample\src\IdentityServer\obj\Debug\net7.0\ref\IdentityServer.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\appsettings.json
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\keys\is-signing-key-382FE3CFC960AC3D55474AF886D1E84C.json
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\keys\is-signing-key-A4746C33C3CA57F2956AF0B967461CE8.json
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\IdentityServer.staticwebassets.runtime.json
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\IdentityServer.exe
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\IdentityServer.deps.json
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\IdentityServer.runtimeconfig.json
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\IdentityServer.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\IdentityServer.pdb
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Duende.IdentityServer.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Duende.IdentityServer.Storage.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\IdentityModel.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Serilog.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\code\RIB\spatest\src\IdentityServer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\IdentityServer.csproj.AssemblyReference.cache
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\IdentityServer.AssemblyInfoInputs.cache
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\IdentityServer.AssemblyInfo.cs
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\IdentityServer.csproj.CoreCompileInputs.cache
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\IdentityServer.RazorAssemblyInfo.cache
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\IdentityServer.RazorAssemblyInfo.cs
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\IdentityServer.sourcelink.json
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\staticwebassets.build.json
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\staticwebassets.development.json
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\staticwebassets\msbuild.IdentityServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\staticwebassets\msbuild.build.IdentityServer.props
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IdentityServer.props
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IdentityServer.props
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\scopedcss\bundle\IdentityServer.styles.css
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\IdentityServer.csproj.CopyComplete
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\IdentityServer.dll
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\refint\IdentityServer.dll
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\IdentityServer.pdb
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\IdentityServer.genruntimeconfig.cache
+C:\code\RIB\spatest\src\IdentityServer\obj\Debug\net7.0\ref\IdentityServer.dll
