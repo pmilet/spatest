@@ -27,7 +27,7 @@ const callApi = async () => {
     resultElement.innerText = "Loading...";
 
     try {
-        const response = await fetch(`https://api6543.azurewebsites.net/identity`, {
+        const response = await fetch(`${apimBaseUri}/api`, {
             method: "GET",
             credentials: "include"
         });
