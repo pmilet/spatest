@@ -27,7 +27,7 @@ const callApi = async () => {
     resultElement.innerText = "Loading...";
 
     try {
-        const response = await fetch(`${config.apimBaseUri}/api/identitygit `, {
+        const response = await fetch(`${config.apimBaseUri}/api/identity`, {
             method: "GET",
             credentials: "include"
         });
