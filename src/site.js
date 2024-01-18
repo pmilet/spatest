@@ -1,6 +1,6 @@
 const config = {
-    //apimBaseUri: "https://duendebffpoc.azure-api.net",
-    apimBaseUri: "https://ribapim.azure-api.net",
+    apimBaseUri: "https://duendebffpoc.azure-api.net",
+    //apimBaseUri: "https://ribapim.azure-api.net",
     clientId: "web",
     authEndpoint: "https://identityserverribtest.azurewebsites.net/connect/authorize",
     logoutEndpoint: "https://identityserverribtest.azurewebsites.net/connect/endsession",
