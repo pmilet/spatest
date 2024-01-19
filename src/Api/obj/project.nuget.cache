@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dk2dQPr3YnK76cWAmY8wBNgpERHgBmtDDPs3TcSEWfE9LCOAjyxXEf9BRhtCFWNgy+mssCuKS0etgvbLcHX8GA==",
+  "dgSpecHash": "dJmOZh/zIE7fMZzLuwT/at4W/tsDjxBbZaNcauKqXXSejRvCoNW7Ju1+faI9H1TBVGIpi1SuoljxYyTBOg5X2g==",
   "success": true,
-  "projectFilePath": "C:\\code\\RIB\\spatest\\src\\Api\\Api.csproj",
+  "projectFilePath": "C:\\code\\RIBLab\\spatest\\src\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pierreml\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.13\\microsoft.aspnetcore.authentication.jwtbearer.6.0.13.nupkg.sha512",
     "C:\\Users\\pierreml\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

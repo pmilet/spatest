@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pIhT5F7d+D/PaxJ4T6ghy//bFmRHXmMIO1jB1LKsyJVPIH+UDjlxtARXSPNqZg/MVscykfnvSLw3KDlRKCK+4A==",
+  "dgSpecHash": "3iLEG7dS3Gcw86t7APtbizzN/g3gnQZz3bbPWp5SmA3w/iLsHj/y0kpYwvRDzVyoFyzHvAVC5YXTsPbDwhUy8w==",
   "success": true,
-  "projectFilePath": "C:\\code\\RIB\\spatest\\src\\IdentityServer\\IdentityServer.csproj",
+  "projectFilePath": "C:\\code\\RIBLab\\spatest\\src\\IdentityServer\\IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pierreml\\.nuget\\packages\\duende.identityserver\\6.2.1\\duende.identityserver.6.2.1.nupkg.sha512",
     "C:\\Users\\pierreml\\.nuget\\packages\\duende.identityserver.storage\\6.2.1\\duende.identityserver.storage.6.2.1.nupkg.sha512",
